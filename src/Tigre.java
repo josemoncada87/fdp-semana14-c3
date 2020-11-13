@@ -20,6 +20,7 @@ public class Tigre {
 	}
 
 	public void setY(int y) {
+		// Este método es increible
 		this.y = y;
 	}
 	
